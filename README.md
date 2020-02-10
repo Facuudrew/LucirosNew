@@ -1,0 +1,2 @@
+# LucirosNew
+trampas,trucos,ayuda
